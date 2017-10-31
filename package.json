@@ -1,0 +1,14 @@
+{
+  "name": "blockchain",
+  "version": "0.0.1",
+  "description": "blockchain presentation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ilya Piatrenka",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
